@@ -1,0 +1,3 @@
+Configurado o git 
+git config --global user.name AmandaTasca
+git conifg --global user.email amandatasca012@gmail.com
