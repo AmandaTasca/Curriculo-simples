@@ -1,3 +1,9 @@
 Configurado o git 
 git config --global user.name AmandaTasca
 git conifg --global user.email amandatasca012@gmail.com
+
+
+git status
+git add .
+ git commit -m "Atualização do curriculo"
+ git push
